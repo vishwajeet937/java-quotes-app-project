@@ -13,7 +13,7 @@ Docker (optional, for containerized deployment)
 Setup and Usage
 Running Locally
 Clone the repository:
-git clone https://github.com/LondheShubham153/java-quotes-app.git
+git clone https://github.com/vishwajeet937/java-quotes-app.git
 cd java-quotes-app
 Ensure quotes.txt exists in the project directory and contains quotes (one per line).
 Compile and run the application:
